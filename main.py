@@ -104,5 +104,10 @@ def compare():
     return render_template('compare.html', filters=filters, results2=results2)
 
 
+<<<<<<< HEAD
 # if __name__ == '__main__':
 #     app.run(debug=False)
+=======
+if __name__ == '__main__':
+    app.run(debug=False)
+>>>>>>> 3d485c5d8d237e0248ae3740e918e82f283317e1
